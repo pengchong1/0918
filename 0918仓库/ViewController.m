@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"修改第一次听");
+    
+    
+    NSLog(@"修改第二次");
 }
 
 - (void)didReceiveMemoryWarning {
